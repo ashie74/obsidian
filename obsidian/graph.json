@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:obsidian  ",
+      "color": {
+        "a": 1,
+        "rgb": 13346551
+      }
+    },
+    {
+      "query": "path:notes",
+      "color": {
+        "a": 1,
+        "rgb": 16429959
+      }
+    },
+    {
+      "query": "path:files  ",
+      "color": {
+        "a": 1,
+        "rgb": 9034987
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.2484375,
+  "lineSizeMultiplier": 0.99527083333333,
+  "collapse-forces": true,
+  "centerStrength": 1,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.0078125,
+  "close": true
+}

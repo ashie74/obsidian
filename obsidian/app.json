@@ -1,0 +1,18 @@
+{
+  "promptDelete": false,
+  "tabSize": 2,
+  "newFileLocation": "root",
+  "alwaysUpdateLinks": true,
+  "focusNewTab": false,
+  "showLineNumber": true,
+  "attachmentFolderPath": "./",
+  "defaultViewMode": "source",
+  "showInlineTitle": true,
+  "strictLineBreaks": false,
+  "rightToLeft": false,
+  "readableLineLength": false,
+  "showIndentGuide": true,
+  "foldIndent": true,
+  "foldHeading": true,
+  "propertiesInDocument": "visible"
+}
