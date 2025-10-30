@@ -1,0 +1,22 @@
+{
+  "cssTheme": "AnuPpuccin",
+  "accentColor": "#b4befe",
+  "theme": "obsidian",
+  "textFontFamily": "JetBrainsMono Nerd Font",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font",
+  "baseFontSizeAction": true,
+  "baseFontSize": 16,
+  "nativeMenus": false,
+  "monospaceFontFamily": "JetBrainsMono Nerd Font",
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "Minimal",
+    "Space",
+    "Colored Folders",
+    "custom-rainbow-colors",
+    "Ashie_snippets",
+    "minimal cards",
+    "extended-colorschemes"
+  ],
+  "showRibbon": false
+}
