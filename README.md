@@ -5,6 +5,6 @@
 <details>
 
 <summary><h3>Old versions</h3></summary>
-**0.1**
+<bold>0.1</bold>bold
 <img align="center" src="https://github.com/ashie74/obsidian/blob/main/obsidian01.png">
 </details>
