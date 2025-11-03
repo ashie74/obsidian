@@ -1,0 +1,257 @@
+{
+  "main": {
+    "id": "2de9427026cfee15",
+    "type": "split",
+    "children": [
+      {
+        "id": "b09f37a903c0feaa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b79096cb801232af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Install-hyprland.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Install-hyprland"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7b1a134f6fef5b45",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a272b0ed3692f72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "639fb3cef48ed85b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Assets/profiles/wolf.png",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of wolf"
+            }
+          },
+          {
+            "id": "dc69131e27e1d59d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "29569f301ed36e14",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#games",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "09fae63e48940313",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 273.5110321044922
+  },
+  "right": {
+    "id": "70a6604122406af4",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7b7e4dc28ee8b7f",
+        "type": "tabs",
+        "dimension": 61.576846307385225,
+        "children": [
+          {
+            "id": "cc630b3ba0eab426",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "cf22e0a6c26a416f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Assets/profiles/wolf.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for wolf"
+            }
+          },
+          {
+            "id": "2b684371c02bc1ce",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Assets/profiles/wolf.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from wolf"
+            }
+          },
+          {
+            "id": "2ef12e27c74fbac3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b79030b34e0dc75e",
+        "type": "tabs",
+        "dimension": 38.42315369261477,
+        "children": [
+          {
+            "id": "29fa05b4aa360136",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 386.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "graph:Open graph view": true,
+      "daily-notes:Open today's daily note": true,
+      "canvas:Create new canvas": true,
+      "workspaces:Manage workspace layouts": true,
+      "templates:Insert template": true,
+      "switcher:Open quick switcher": true,
+      "command-palette:Open command palette": true
+    }
+  },
+  "active": "dc69131e27e1d59d",
+  "lastOpenFiles": [
+    "Notes/Catppuccin Color's.md",
+    "TCG - Doménium.md",
+    "Install-hyprland.md",
+    "Watching.md",
+    "Notes/Challenge.md",
+    "Notes/Cheat Sheet.md",
+    "Notes/Completed.md",
+    "Notes/Doom.md",
+    "Notes/Versions.md",
+    "Files/swaylock/config.md",
+    "Files/nvim/cattppuccin.lua.md",
+    "Files/neofetch/config.conf_old.md",
+    "Files/hyprpanel/config.json.md",
+    "Assets/profiles/wolf.png",
+    "Assets/profiles/Totodile.jpg",
+    "Assets/profiles/tiger.png",
+    "Assets/profiles/lego.jpg",
+    "Assets/wallpapers/girl_and_dog.png",
+    "Assets/wallpapers/flying_car.png",
+    "Assets/spotify/ml.png",
+    "Assets/spotify/mp.png",
+    "Assets/spotify/mp2.png",
+    "Assets/spotify/mx.png",
+    "Untitled.base",
+    "Untitled 1",
+    "Untitled",
+    "Untitled.md",
+    "Files/hyprpanel",
+    "Files/swaylock",
+    "Files/ly/ly.service.md",
+    "Files/mozilla/userContent.css.md",
+    "Files/mozilla/userChrome.css.md",
+    "Files/ly/README.md",
+    "Files/nvim",
+    "Wellcome.md",
+    "Notes/BetterFox.md",
+    "GitHub.md",
+    "Files/ly",
+    "Files/lib/systemd/Untitled Folder",
+    "Files/lib/systemd",
+    "Files/lib/Untitled Folder",
+    "obsidian/Obsidian.md",
+    "obsidian/Plugins.md",
+    "obsidian/Ashie_snippets.css.md",
+    "obsidian/graph.json.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Media.canvas",
+    "Untitled 2.canvas",
+    "Untitled 3.canvas",
+    "Config.canvas"
+  ]
+}
